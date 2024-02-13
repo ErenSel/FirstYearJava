@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="AtmOtomasyonu/src/atm/atm.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/AtmOtomasyonu/src/atm/atm.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=AtmOtomasyonu/src&lt;atm{Login.java[Login" manifestLocation="/AtmOtomasyonu/src/atm/atm_manifest" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <file path="/AtmOtomasyonu/.project"/>
+        <file path="/AtmOtomasyonu/.classpath"/>
+        <javaElement handleIdentifier="=AtmOtomasyonu/src"/>
+        <file path="/AtmOtomasyonu/jgoodies-forms-1.8.0-sources.jar"/>
+    </selectedElements>
+</jardesc>
