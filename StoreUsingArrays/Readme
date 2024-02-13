@@ -1,1 +1,55 @@
+StoreUsingArrays_20210808010
+This Java program simulates a simple store management system using arrays. The program allows users to select items from a predefined list, specify the quantity they want to buy, calculates the total price, and returns the change if the amount given is more than the total due.
 
+Table of Contents
+Description
+Features
+How to Use
+Sample Output
+Contributing
+License
+Description
+This program is designed as a learning exercise for understanding basic Java programming concepts such as arrays, loops, methods, and user input/output. It demonstrates how to manage a store inventory, process customer requests, calculate totals, and provide change. The program also includes a method to capitalize the first letter of each item in the inventory list.
+
+Features
+Display a menu of available items with prices.
+Allow the user to select items and specify the quantity.
+Check if the requested quantity is available in the inventory.
+Calculate the total price of items selected.
+Handle payment and return change if necessary.
+How to Use
+Clone the repository to your local machine.
+Navigate to the directory where the StoreUsingArrays_20210808010.java file is located.
+Compile the Java file using javac StoreUsingArrays_20210808010.java.
+Run the compiled class using java StoreUsingArrays_20210808010.
+Follow the on-screen instructions to interact with the program.
+Sample Output
+rust
+Copy code
+Welcome to our store, we have the following
+Please enter what would you like: 
+1 - for Bread (0.75)
+2 - for Cola (2.5)
+3 - for Snickers (2.25)
+4 - for Ayran (1.0)
+0 - to checkout
+1
+How many Bread would you like to buy ?
+2
+Please enter what would you like: 
+1 - for Bread (0.75)
+2 - for Cola (2.5)
+3 - for Snickers (2.25)
+4 - for Ayran (1.0)
+0 - to checkout
+0
+*****Customer Total*****
+Bread - 2 * 0.75 = 1.5
+-----------------------------
+Total due: 1.5
+Please enter the amount given: 
+2
+Thank you for your business. Your change given is: 
+1 - 0.5
+Contributing
+Contributions are welcome! If you have any ideas, enhancements, or bug fixes, please feel free to open an issue or create a pull request.
